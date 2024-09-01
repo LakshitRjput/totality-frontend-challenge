@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Apartment",
+    "description": "A beautiful modern apartment in the city center.",
+    "price": 120,
+    "location": "Delhi",
+    "bedrooms": 2,
+    "amenities": ["Wi-Fi", "Air Conditioning"],
+    "image": "/images/property1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Cozy Cottage",
+    "description": "A cozy cottage in the countryside.",
+    "price": 80,
+    "location": "Greater Noida",
+    "bedrooms": 3,
+    "amenities": ["Fireplace", "Garden"],
+    "image": "/images/property2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Beachfront Villa",
+    "description": "A luxurious villa with a beachfront view.",
+    "price": 200,
+    "location": "Hariyana",
+    "bedrooms": 4,
+    "amenities": ["Pool", "Ocean View"],
+    "image": "/images/property3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Charming Cabin",
+    "description": "A rustic cabin in the woods.",
+    "price": 100,
+    "location": "Bangalore",
+    "bedrooms": 2,
+    "amenities": ["Hot Tub", "Barbecue Grill"],
+    "image": "/images/property4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Luxurious Penthouse",
+    "description": "A high-end penthouse with stunning city views.",
+    "price": 350,
+    "location": "Mumbai",
+    "bedrooms": 3,
+    "amenities": ["Gym", "Rooftop Terrace"],
+    "image": "/images/property5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Sunny Studio",
+    "description": "A bright studio apartment with a central location.",
+    "price": 90,
+    "location": "Punjab",
+    "bedrooms": 1,
+    "amenities": ["Balcony", "Modern Kitchen"],
+    "image": "/images/property6.jfif"
+  },
+  {
+    "id": 7,
+    "title": "Historic Mansion",
+    "description": "A grand mansion with historical significance.",
+    "price": 500,
+    "location": "Kashmir",
+    "bedrooms": 5,
+    "amenities": ["Library", "Ornamental Gardens"],
+    "image": "/images/property7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Spacious Loft",
+    "description": "A large loft with an open floor plan.",
+    "price": 150,
+    "location": "Dehradun",
+    "bedrooms": 2,
+    "amenities": ["Exposed Brick", "Art Studio"],
+    "image": "/images/property8.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Elegant Townhouse",
+    "description": "An elegant townhouse in a prime location.",
+    "price": 180,
+    "location": "Assam",
+    "bedrooms": 3,
+    "amenities": ["Private Garden", "Fireplace"],
+    "image": "/images/property9.jpg"
+  }
+  
+]
